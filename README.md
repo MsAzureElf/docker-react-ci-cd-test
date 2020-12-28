@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Docker React Application to test CI/CD integration with AWS and Travis CI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
